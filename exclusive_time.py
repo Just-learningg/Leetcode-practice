@@ -2,6 +2,7 @@ class Solution(object):
     def exclusiveTime(self, n, logs):
         call_stack = []
 
+        print(logs[1])
         e = "Will finish this later"
 
 
