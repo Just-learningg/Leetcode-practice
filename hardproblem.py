@@ -8,3 +8,6 @@ class HardProblem(str):
         # Implement a complex algorithm to solve the problem
         result = self.value ** 2  # Placeholder for a more complex operation
         return result
+    
+# Example usage
+problem = HardProblem("This is a hard problem")
